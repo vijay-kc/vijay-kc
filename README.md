@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Vijay kumar chaurasiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
+<img  float="right" src="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-kc&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-kc" /> </p>
 
