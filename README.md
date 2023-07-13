@@ -1,4 +1,4 @@
-<div align="center"> <img src="poster1.png" </div>
+<div align="center" > <img  src="poster1.png" hight="80" width="200"> </div>
 <h1 align="center">Hi 👋, I'm Vijay kumar chaurasiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  float="right"align="right" src="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
