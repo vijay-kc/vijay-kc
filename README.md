@@ -1,5 +1,5 @@
-<div align="center" > <img  src="newbg.avif" height="500" width="100%" > </div>
-<h1 align="center">Hi 👋, I'm Vijay kumar chaurasiya</h1>
+<div align="center" > <img  src="beemarrie_developer_marketing_computer_strategy_deda1786-e5df-4461-957a-01d758880ac0.png" height="500" width="100%" > </div>
+<h1 align="center" bgcolor="green">Hi 👋, I'm Vijay kumar chaurasiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  float="right"align="right" src="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60">
 
