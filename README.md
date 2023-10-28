@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vijaykumar61219" target="blank"><img src="https://img.shields.io/twitter/follow/vijaykumar61219?logo=twitter&style=for-the-badge" alt="vijaykumar61219" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on **react**
 
-- 🌱 I’m currently learning **javascript and react**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **vijaykumarchaurasiya999@gmail.com**
 
